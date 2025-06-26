@@ -111,18 +111,17 @@ Este proyecto integra conceptos de varias asignaturas:
 - Actualización de la Carta Gantt con los nuevos sprints.
 - Investigación sobre APIs para integrar en el sistema.
 
+### **Semana 12:**
+- **Integración de una API**: Se integró una API externa al sistema, mejorando la funcionalidad y expansión del sistema.
+- **Conexión final de la base de datos**: Todas las entidades fueron correctamente conectadas, lo que asegura la correcta persistencia y gestión de los datos.
+- El proyecto está **a punto de finalizar**, con solo algunas pruebas finales y ajustes pendientes.
+
 *Actualmente nos encontramos en la fase final de desarrollo, enfocados en pruebas y mejoras antes de la entrega final.*
 
 ---
 
 ## 9. Cómo Ejecutar el Proyecto
-
-1. Clona este repositorio:  
-   `git clone https://github.com/francisxo999/Proyecto-Semestral.git`
-   
+1. Clona este repositorio: `git clone https://github.com/francisxo999/Proyecto-Semestral.git`   
 2. Abre la carpeta en Visual Studio Code.
-   
 3. Asegúrate de tener la versión más actual de Python instalada y las dependencias necesarias.
-
 4. Ejecuta el archivo `main.py` para iniciar la aplicación.
-
